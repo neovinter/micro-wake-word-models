@@ -3,7 +3,7 @@
   "wake_word": "Inara",
   "author": "neovinter",
   "website": "https://github.com/neovinter/micro-wake-word-models/upload/main/models/",
-  "model": "Inara.tflite",
+  "model": "./inara.tflite",
   "trained_languages": [
     "en"
   ],
