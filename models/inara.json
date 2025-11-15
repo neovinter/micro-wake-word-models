@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Inara",
   "author": "neovinter",
-  "website": "https://github.com/neovinter/micro-wake-word-models/blob/main/models/",
+  "website": "https://github.com/neovinter/micro-wake-word-models/tree/main/models",
   "model": "./inara.tflite",
   "trained_languages": [
     "en"
