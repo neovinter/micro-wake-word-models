@@ -1,7 +1,7 @@
 {
   "type": "micro",
-  "wake_word": "Лина",
-  "author": "Tater Totterson",
+  "wake_word": "Lina",
+  "author": "neovinter",
   "website": "https://raw.githubusercontent.com/neovinter/micro-wake-word-models/main/models",
   "model": "./lina.tflite",
   "trained_languages": [
