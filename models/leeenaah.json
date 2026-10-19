@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Lina",
+  "wake_word": "Lina_1",
   "author": "neovinter",
   "website": "https://raw.githubusercontent.com/neovinter/micro-wake-word-models/main/models",
   "model": "./leeenaah.tflite",
