@@ -4,7 +4,7 @@
   "label": "Лина",
   "author": "Tater Totterson",
   "website": "https://raw.githubusercontent.com/neovinter/micro-wake-word-models/main/models",
-  "model": "lina.tflite",
+  "model": "./lina.tflite",
   "trained_languages": [
     "ru"
   ],
