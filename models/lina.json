@@ -3,8 +3,8 @@
   "wake_word": "Лина",
   "label": "Лина",
   "author": "Tater Totterson",
-  "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
-  "model": "wakeword_e8e2f717.tflite",
+  "website": "https://raw.githubusercontent.com/neovinter/micro-wake-word-models/main/models",
+  "model": "lina.tflite",
   "trained_languages": [
     "ru"
   ],
